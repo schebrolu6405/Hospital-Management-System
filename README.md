@@ -18,3 +18,5 @@ Business rules:
 
 
 # ER/EER DIAGRAM:
+![Hospital%20Management%20System.png](https://github.com/schebrolu6405/Hospital-Management-System/blob/54085af8d4976cbbc920a7d3c47dad62ef1753de/resources/Hospital%20Management%20System.png)
+![EERD%20Hospital%20System.png](https://github.com/schebrolu6405/Hospital-Management-System/blob/54085af8d4976cbbc920a7d3c47dad62ef1753de/resources/EERD%20Hospital%20System.png)
